@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T04:01:09 PDT" name="Suite" finished-at="2024-09-23T04:04:10 PDT" duration-ms="181910">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T04:01:09 PDT" name="TestRunner-Firefox" finished-at="2024-09-23T04:04:10 PDT" duration-ms="181552">
+      <class name="com.comsand.ecommtest.RemoveProductFromCartTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@6440112d]" started-at="2024-09-23T04:03:33 PDT" name="beforeclass" finished-at="2024-09-23T04:03:51 PDT" duration-ms="18180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@6440112d]" started-at="2024-09-23T04:03:51 PDT" name="beforeMethod" finished-at="2024-09-23T04:04:02 PDT" duration-ms="11391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="RemoveproductFromCart()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@6440112d]" started-at="2024-09-23T04:04:02 PDT" name="RemoveproductFromCart" finished-at="2024-09-23T04:04:09 PDT" duration-ms="6682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveproductFromCart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@6440112d]" started-at="2024-09-23T04:04:09 PDT" name="afterMethod" finished-at="2024-09-23T04:04:10 PDT" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@6440112d]" started-at="2024-09-23T04:04:10 PDT" name="afterClass" finished-at="2024-09-23T04:04:10 PDT" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.RemoveProductFromCartTest -->
+      <class name="com.comsand.ecommtest.AddingmultipleproducttocartTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@5890e879]" started-at="2024-09-23T04:02:57 PDT" name="beforeclass" finished-at="2024-09-23T04:03:01 PDT" duration-ms="4824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@5890e879]" started-at="2024-09-23T04:03:01 PDT" name="beforeMethod" finished-at="2024-09-23T04:03:23 PDT" duration-ms="21888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addingMultipleproductotocart()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@5890e879]" started-at="2024-09-23T04:03:23 PDT" name="addingMultipleproductotocart" finished-at="2024-09-23T04:03:31 PDT" duration-ms="7982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingMultipleproductotocart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@5890e879]" started-at="2024-09-23T04:03:31 PDT" name="afterMethod" finished-at="2024-09-23T04:03:32 PDT" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@5890e879]" started-at="2024-09-23T04:03:32 PDT" name="afterClass" finished-at="2024-09-23T04:03:33 PDT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.AddingmultipleproducttocartTest -->
+      <class name="com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@7e057f43]" started-at="2024-09-23T04:01:51 PDT" name="beforeclass" finished-at="2024-09-23T04:02:05 PDT" duration-ms="13985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@7e057f43]" started-at="2024-09-23T04:02:05 PDT" name="beforeMethod" finished-at="2024-09-23T04:02:14 PDT" duration-ms="8685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="purchaseProductWithCashOndelivertTest()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@7e057f43]" started-at="2024-09-23T04:02:14 PDT" name="purchaseProductWithCashOndelivertTest" finished-at="2024-09-23T04:02:26 PDT" duration-ms="11589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseProductWithCashOndelivertTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@7e057f43]" started-at="2024-09-23T04:02:26 PDT" name="afterMethod" finished-at="2024-09-23T04:02:26 PDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@7e057f43]" started-at="2024-09-23T04:02:26 PDT" name="afterClass" finished-at="2024-09-23T04:02:27 PDT" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest -->
+      <class name="com.comsand.ecommtest.RemoveproductfromwishlistTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@6c284af]" started-at="2024-09-23T04:02:27 PDT" name="beforeclass" finished-at="2024-09-23T04:02:40 PDT" duration-ms="13350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@6c284af]" started-at="2024-09-23T04:02:40 PDT" name="beforeMethod" finished-at="2024-09-23T04:02:50 PDT" duration-ms="10000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Tracktheorder()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@6c284af]" started-at="2024-09-23T04:02:50 PDT" name="Tracktheorder" finished-at="2024-09-23T04:02:54 PDT" duration-ms="4065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tracktheorder -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@6c284af]" started-at="2024-09-23T04:02:54 PDT" name="afterMethod" finished-at="2024-09-23T04:02:55 PDT" duration-ms="1169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@6c284af]" started-at="2024-09-23T04:02:55 PDT" name="afterClass" finished-at="2024-09-23T04:02:57 PDT" duration-ms="1329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.RemoveproductfromwishlistTest -->
+      <class name="com.comsand.ecommtest.AddproducttoCartTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@14028087]" started-at="2024-09-23T04:01:09 PDT" name="beforeclass" finished-at="2024-09-23T04:01:28 PDT" duration-ms="19736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@14028087]" started-at="2024-09-23T04:01:28 PDT" name="beforeMethod" finished-at="2024-09-23T04:01:39 PDT" duration-ms="11179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Tocheckorderhistory()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@14028087]" started-at="2024-09-23T04:01:39 PDT" name="Tocheckorderhistory" finished-at="2024-09-23T04:01:49 PDT" duration-ms="9120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tocheckorderhistory -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@14028087]" started-at="2024-09-23T04:01:49 PDT" name="afterMethod" finished-at="2024-09-23T04:01:49 PDT" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@14028087]" started-at="2024-09-23T04:01:49 PDT" name="afterClass" finished-at="2024-09-23T04:01:51 PDT" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.AddproducttoCartTest -->
+    </test> <!-- TestRunner-Firefox -->
+    <test started-at="2024-09-23T04:01:09 PDT" name="TestRunner-chrome" finished-at="2024-09-23T04:04:10 PDT" duration-ms="181910">
+      <class name="com.comsand.ecommtest.RemoveProductFromCartTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@5965d37]" started-at="2024-09-23T04:03:28 PDT" name="beforeclass" finished-at="2024-09-23T04:03:46 PDT" duration-ms="17349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@5965d37]" started-at="2024-09-23T04:03:46 PDT" name="beforeMethod" finished-at="2024-09-23T04:03:55 PDT" duration-ms="8879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="RemoveproductFromCart()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@5965d37]" started-at="2024-09-23T04:03:55 PDT" name="RemoveproductFromCart" finished-at="2024-09-23T04:04:09 PDT" duration-ms="14727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveproductFromCart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@5965d37]" started-at="2024-09-23T04:04:09 PDT" name="afterMethod" finished-at="2024-09-23T04:04:10 PDT" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.RemoveProductFromCartTest@5965d37]" started-at="2024-09-23T04:04:10 PDT" name="afterClass" finished-at="2024-09-23T04:04:10 PDT" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.RemoveProductFromCartTest -->
+      <class name="com.comsand.ecommtest.AddingmultipleproducttocartTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@673fdbce]" started-at="2024-09-23T04:02:54 PDT" name="beforeclass" finished-at="2024-09-23T04:03:11 PDT" duration-ms="17758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@673fdbce]" started-at="2024-09-23T04:03:11 PDT" name="beforeMethod" finished-at="2024-09-23T04:03:13 PDT" duration-ms="1971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addingMultipleproductotocart()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@673fdbce]" started-at="2024-09-23T04:03:13 PDT" name="addingMultipleproductotocart" finished-at="2024-09-23T04:03:28 PDT" duration-ms="14150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingMultipleproductotocart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@673fdbce]" started-at="2024-09-23T04:03:28 PDT" name="afterMethod" finished-at="2024-09-23T04:03:28 PDT" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.AddingmultipleproducttocartTest@673fdbce]" started-at="2024-09-23T04:03:28 PDT" name="afterClass" finished-at="2024-09-23T04:03:28 PDT" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.AddingmultipleproducttocartTest -->
+      <class name="com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@4007f65e]" started-at="2024-09-23T04:01:48 PDT" name="beforeclass" finished-at="2024-09-23T04:02:04 PDT" duration-ms="16338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@4007f65e]" started-at="2024-09-23T04:02:04 PDT" name="beforeMethod" finished-at="2024-09-23T04:02:06 PDT" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="purchaseProductWithCashOndelivertTest()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@4007f65e]" started-at="2024-09-23T04:02:06 PDT" name="purchaseProductWithCashOndelivertTest" finished-at="2024-09-23T04:02:23 PDT" duration-ms="16756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseProductWithCashOndelivertTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@4007f65e]" started-at="2024-09-23T04:02:23 PDT" name="afterMethod" finished-at="2024-09-23T04:02:23 PDT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest@4007f65e]" started-at="2024-09-23T04:02:23 PDT" name="afterClass" finished-at="2024-09-23T04:02:23 PDT" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.PurchaseproductWithcashonDeliveryTest -->
+      <class name="com.comsand.ecommtest.RemoveproductfromwishlistTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@1a245833]" started-at="2024-09-23T04:02:23 PDT" name="beforeclass" finished-at="2024-09-23T04:02:38 PDT" duration-ms="14460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@1a245833]" started-at="2024-09-23T04:02:38 PDT" name="beforeMethod" finished-at="2024-09-23T04:02:46 PDT" duration-ms="7963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Tracktheorder()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@1a245833]" started-at="2024-09-23T04:02:46 PDT" name="Tracktheorder" finished-at="2024-09-23T04:02:52 PDT" duration-ms="6728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tracktheorder -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@1a245833]" started-at="2024-09-23T04:02:52 PDT" name="afterMethod" finished-at="2024-09-23T04:02:53 PDT" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.RemoveproductfromwishlistTest@1a245833]" started-at="2024-09-23T04:02:53 PDT" name="afterClass" finished-at="2024-09-23T04:02:54 PDT" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.RemoveproductfromwishlistTest -->
+      <class name="com.comsand.ecommtest.AddproducttoCartTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@6f01b95f]" started-at="2024-09-23T04:01:09 PDT" name="beforeclass" finished-at="2024-09-23T04:01:19 PDT" duration-ms="10331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@6f01b95f]" started-at="2024-09-23T04:01:19 PDT" name="beforeMethod" finished-at="2024-09-23T04:01:31 PDT" duration-ms="12304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Tocheckorderhistory()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@6f01b95f]" started-at="2024-09-23T04:01:31 PDT" name="Tocheckorderhistory" finished-at="2024-09-23T04:01:45 PDT" duration-ms="13504" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a href="product-details.php?pid=16">...</a> is not clickable at point (892, 676). Other element would receive the click: <img src="./img/logo/Acoe.png" alt="" height="40px" width="350px" style="margin:auto">
+  (Session info: chrome=129.0.6668.58)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2382cf4beb350445d649144d9db6af6, clickElement {id=f.63F72AC77DA8A6A1CD033DF63B3EC8CE.d.8E1477A2026C0280F5889F8121659485.e.169}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.58, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61608/devtoo..., se:cdpVersion: 129.0.6668.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f2382cf4beb350445d649144d9db6af6)] -> xpath: //a[text()='Thea Stilton and the Tropical Treasure ']]
+Session ID: f2382cf4beb350445d649144d9db6af6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="product-details.php?pid=16">...</a> is not clickable at point (892, 676). Other element would receive the click: <img src="./img/logo/Acoe.png" alt="" height="40px" width="350px" style="margin:auto">
+  (Session info: chrome=129.0.6668.58)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2382cf4beb350445d649144d9db6af6, clickElement {id=f.63F72AC77DA8A6A1CD033DF63B3EC8CE.d.8E1477A2026C0280F5889F8121659485.e.169}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.58, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61608/devtoo..., se:cdpVersion: 129.0.6668.58, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f2382cf4beb350445d649144d9db6af6)] -> xpath: //a[text()='Thea Stilton and the Tropical Treasure ']]
+Session ID: f2382cf4beb350445d649144d9db6af6
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at com.comsand.ecommtest.AddproducttoCartTest.Tocheckorderhistory(AddproducttoCartTest.java:36)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1570)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tocheckorderhistory -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@6f01b95f]" started-at="2024-09-23T04:01:46 PDT" name="afterMethod" finished-at="2024-09-23T04:01:47 PDT" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.comsand.ecommtest.AddproducttoCartTest@6f01b95f]" started-at="2024-09-23T04:01:47 PDT" name="afterClass" finished-at="2024-09-23T04:01:48 PDT" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.comsand.ecommtest.AddproducttoCartTest -->
+    </test> <!-- TestRunner-chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
